@@ -10,7 +10,17 @@ Ouvertures :
 - 1SA fort : 15–17H
 - 2♣ Kokish : pour toutes les mains forcing de manche irrégulières et toutes les mains fortes régulières (22H et+)
 - 2♦/♥/♠ faibles : unicolores faibles (6+ cartes)
-- 
+
+Signalisation à Sant Atout : 
+- Entame 4e meilleure
+- Appel direct
+- Defausse lavinthal
+
+Signalisation à l'atout : 
+- Entame pair-impair
+- Appel direct
+- Defausse lavinthal
+
 L’ensemble est présenté dans un seul fichier .md pour faciliter la relecture, les modifications et le versioning collaboratif.
 
 Les changements se font via pull request avec validation mutuelle.
