@@ -186,18 +186,19 @@ Après **1♦ - (p) - 2♣ - (p)** : (ouverture mineure)
 Après **1♥ - (p) - 2♣ - (p)** : (ouverture majeure)
 
 - 2SA : mini (12-14H) ou maxi (18-19H)
-- 2♦ : bicolore éco
+- 2♦ : bicolore au au moins 5-4, 12+H
 - 2♥ : répétition de la couleur, ne promet rien de plus
 - 2♠ : bicolore cher atténué, au moins 15H
 - 2SA : mini (12-14H) ou maxi (18-19H)
+- 3♦ (saut) : bicolore à saut, au moins 5-5, 15+H
 - 3SA : 15-17H, singleton ♣
 
 Après **1♠ - (p) - 2♣ - (p)** : (ouverture majeure)
 
 - 2♠ : répétition de la couleur, promet 6♠ spécifiquement dans cette séquence
-- 2♦/♥ : bicolore éco
+- 2♦/♥ : bicolore au au moins 5-4, 12+H
 - 2SA : mini (12-14H) ou maxi (18-19H)
-- 3♦/♥ (saut) : bicolore à saut, au moins 5-5
+- 3♦/♥ (saut) : bicolore à saut, au moins 5-5, 15+H
 - 3SA : 15-17H, singleton ♣
 
 <a id="developpements-apres-1M-1M"></a>
@@ -251,7 +252,7 @@ Après **1♠ - 1SA - 2SA** :
 - 3♣ : relais
   - 3♦ : 5♠/4♦
   - 3♥ : 5♠/4♥
-  - 3♠ : 5♠/4♣
+  - 3♠ : unicolore ♠
   - 3SA : 18-19H 5332 avec 3 cœurs (avec seulement 2 cœurs, 3SA directement sur 1SA)
 - 3♦ : texas ♥, 5 cartes, faible
 - 3♥ : texas ♠, 5 cartes, faible
