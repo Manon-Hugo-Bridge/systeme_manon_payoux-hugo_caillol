@@ -24,6 +24,7 @@ Meilleure mineure — Majeure 5e
    - [Réponses](#reponses1M)
    - [Fits différés](#fits-diff)
    - [Développements après 2/1 FM](#2over1)
+   - [Développements après 1♥-1♠](#developpements-apres-1M-1M)
    - [Redemande à 2SA FM après 1M-1SA](#redemande-1M-1SA-2SA)
    - [Enchères après passe](#drury)
    - [Mixed Raises](#mixed-raises)
@@ -193,11 +194,70 @@ Après **1♥ - (p) - 2♣ - (p)** : (ouverture majeure)
 Après **1♠ - (p) - 2♣ - (p)** : (ouverture majeure)
 
 - 2♠ : répétition de la couleur, promet 1 carte à ♠ en plus
-- Sinon : forcément 2SA / 3SA / 2m / 2♥ (2♥ utilisé ici comme enchère de remplissage, sans rapport avec les cœurs)
+- 2♦ : bicolore éco, 5♠/4♦
+- 3♦ (saut) : bicolore à saut, 5♠/5♦
+- Sinon : forcément 2SA / 3SA / 2♥ (2♥ utilisé ici comme enchère de remplissage, sans rapport avec les cœurs)
+
+<a id="developpements-apres-1M-1M"></a>
+
+### Développements après 1♥-1♠
+
+Après **1♥ - 1♠** :
+
+- 3♣/3♦ : bicolore à saut, FM, 5+/4+, ou unicolore ♥ sans couleur secondaire pour rendre la séquence FM
+- 2♣/2♦ : bicolore éco, 5+/4+, jusqu'à 17H
 
 <a id="redemande-1M-1SA-2SA"></a>
 
 ### Redemande à 2SA FM après 1M-1SA
+
+Après **1♥ - 1SA** :
+
+- 2♠ : bicolore 5+/4+ ♥/♠, cœurs plus longs que les piques (avec 5♠5♥ on ouvre de 1♠ ; avec 18H+, bicolore à saut : 1♠ - 1SA - 3♥)
+- 3♣/3♦ : bicolore à saut, 5+/5+, FM, 18H+
+- 2SA : FM, main FM 18H+ avec :
+  - bicolore 5+/4 (pas 5/5)
+  - unicolore
+  - jeu régulier 18-19H avec trou à ♠
+
+Après **1♥ - 1SA - 2SA** :
+
+- 3♣ : relais
+  - 3♦ : 5♥/4♦
+  - 3♥ : unicolore ♥
+  - 3♠ : 5♥/4♣
+  - 3SA : 5332 avec 2 petits ♠
+- 3♦ : fit faible (4-5H), non FM
+- 3♥ : bicolore mineur faible
+- 3♠ : texas ♣, 6 cartes
+- 3SA : texas ♦, 6 cartes
+- 4♥ : fit faible (6-7H)
+
+L'ouvreur ne corrige le texas que s'il est fitté et intéressé.
+
+Après **1♠ - 1SA** :
+
+- 3♣ : 5+/4+ ♠/♣ (pas forcément 5/5 : le relais de 2SA ne permet pas de décrire un 5♠/4♣)
+- 3♦/3♥ : bicolore à saut, 5+/5+, FM, 18H+
+- 2SA : FM, main FM 18H+ avec :
+  - bicolore 5+/4 (pas 5/5)
+  - unicolore
+  - jeu régulier 18-19H 5332 avec 3 cœurs
+
+Après **1♠ - 1SA - 2SA** :
+
+- 3♣ : relais
+  - 3♦ : 5♠/4♦
+  - 3♥ : 5♠/4♥
+  - 3♠ : 5♠/4♣
+  - 3SA : 18-19H 5332 avec 3 cœurs (avec seulement 2 cœurs, 3SA directement sur 1SA)
+- 3♦ : texas ♥, 5 cartes, faible
+- 3♥ : texas ♠, 5 cartes, faible
+- 3♠ : texas ♣, 6 cartes
+- 3SA : texas ♦, 6 cartes
+
+L'ouvreur ne corrige le texas que s'il est fitté et intéressé.
+
 
 <a id="drury"></a>
 
@@ -245,7 +305,7 @@ REGLE : exceptionnellement, ici on nomme les singletons dans l'ordre croissant d
 
 **Autres enchères d'un répondant passé**
 
-- 1M - changement de couleur à saut : bicolore de rencontre, au moins 5-4, 11-12H
+- 1M - changement de couleur à saut : bicolore de rencontre, au moins 5-4, 11-12HLD
 - 1M - 3M : barrage
 - 1♠ - 2♥ : en principe 6+ cartes à ♥, misfit, environ 7-10H
 
