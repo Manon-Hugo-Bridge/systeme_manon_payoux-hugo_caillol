@@ -65,13 +65,25 @@ Meilleure mineure — Majeure 5e
 
 ### Réponses
 
+| Enchère | Signification |
+| --- | --- |
+| 1M | 4+ cartes |
+| 1SA | pas de majeure 4e, 7–10H |
+| 2m | fit faible, 6–10H |
+| 2♥ | Bessis |
+| 2♠ | 6 piques, main très faible (ne veut pas jouer la manche en face de 18–19 rég) |
+| 2SA | 11–12H, jeu régulier sans majeure 4e |
+| 3SA | 13–15H, jeu régulier sans majeure 4e |
+
+1♦ - 2♣ : 2/1 FM
+
 <a id="développements-1m-1M"></a>
 
 ### Développements après réponse en majeure
 
 Après **1m - 1M - 2SA** :
 
-- 3m (répétition de la mineure) : chelemisant à m
+- 3m (mineure de l'ouvreur) : chelemisant à m
 - 3m' (l'autre mineure) : checkback stayman (CS)
 
 Après **1m - 1♥ - 2SA - 3m'** : CS sur 1♥, fonctionne comme une sorte de roudi — l'ouvreur a dénié 4 cartes à ♠ en ne disant pas 1♠, ce CS informe l'ouvreur que le répondant a 5 cartes à ♥ et pas seulement 4
@@ -139,9 +151,22 @@ Après **1♥ - 1♠ - 1SA - 2♣** : roudi, le répondant a 5 cartes à ♠
 - 2♥ : 3 cartes à ♠, mini
 - 2♠ : 3 cartes à ♠, maxi
 
+Après **1m - 1M - 1SA** :
+
+- 2♣ : roudi
+- 2♦ : canapé ?
+- 3m : 4 cartes à M, 4+ cartes m, main irrégulière ou espoir de chelem
+- 3m' : toujours 5-5
+
+Conséquences du Bessis et du Roudi sur les autres mains bicolores ♠-♥ :
+
+- 1m - 1♠ - 1SA - 2♥ : 9+/10H, légèrement plus beau que Bessis
+- 1m - 1♠ - 1SA - 2♣ - 2♦ - 2♥ : 5 piques 4 cœurs limite (11–12H non FM)
+- 1m - 1♠ - 1SA - 2♣ - 2x - 3♥ : 4 cœurs FM
+
 Attention : après **1♥ - 1♠ - 1SA - 2♣ - 2♦** (l'ouvreur n'a pas 3 cartes à ♠), un 2♠ du répondant est alors pour les jouer (naturel, plus du tout relais).
 
-<a id="#redemande-1m-2SA"></a>
+<a id="redemande-1m-2SA"></a>
 
 ### Redemande à 2SA
 
