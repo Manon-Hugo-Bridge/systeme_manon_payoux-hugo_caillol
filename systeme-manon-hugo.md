@@ -118,28 +118,29 @@ Sur une ouverture mineure, après une intervention adverse de 1♦ ou 1♥.
 Après **1♣ - (1♦)** :
 
 - **Palier 1**
-  - X\* : au moins 4♥
-  - 1♥\* : au moins 4♠
-  - 1♠\* : contre d'appel
+  - X : au moins 4♥
+  - 1♥ : au moins 4♠
+  - 1♠ : contre d'appel
 - **Palier 2**
-  - 2♦ : 6 cartes à ♥, faible ou FM
-  - 2♥ : 6 cartes à ♠, faible ou FM (après la rectification, il reparle s'il est FM, sinon il passe)
+  - 2♦/♥ : 6 cartes à ♥/♠, faible ou FM (après la rectification, il reparle s'il est FM, sinon il passe)
   - 2♠ : jeu FM, pas d'arrêt dans la couleur d'intervention (ou demi-arrêt) — réponses au palier 3
 - **Palier 3**
-  - 3♦ : 6 cartes à ♥, jeu propositionnel de manche (10-11H) ; l'ouvreur corrige à 3♥/3♠ ou conclut à la manche (3SA/4♥/4♠)
+  - 3♦/♥ : 6 cartes à ♥/♠, jeu propositionnel de manche (10-11H) ; l'ouvreur corrige à 3♥/3♠ ou conclut à la manche (3SA/4♥/4♠)
+  - 3♠ : demande complément d'arrêt pour jouer 3SA de la bonne main (avec Axx par exemple)
 
 Après **1♣/1♦ - (1♥)** : palier 1
 
-- X\* : au moins 4♠
-- 1♠\* : contre d'appel
+- X : au moins 4♠
+- 1♠ : contre d'appel
 
-Réponse de l'ouvreur (sur les enchères marquées \*) :
+Redemande de l'ouvreur sur transfert au palier de 1 :
 
-- nommer la couleur du répondant sans saut : 3 cartes
-- saut simple : fit (4 cartes) et ouverture de 1ère zone
-- double saut : fit et ouverture de 2ième zone
+- rectifier le transfert dans la couleur du répondant au palier de 1 : 3 cartes
+- palier de 2 : fit (4 cartes) et ouverture de 1ère zone
+- palier de 3 : fit et ouverture de 2ième zone
 - 1SA : main régulière de 1ère zone avec arrêt dans la couleur du répondant
-- contre : 3 cartes dans la couleur du répondant et une belle ouverture
+
+Si n°4 parle, contre : 3 cartes dans la couleur du répondant et une belle ouverture
 
 <a id="roudi"></a>
 
@@ -158,7 +159,7 @@ Après **1m - 1M - 1SA** :
 - 3m : 4 cartes à M, 4+ cartes m, main irrégulière ou espoir de chelem
 - 3m' : toujours 5-5
 
-Conséquences du Bessis et du Roudi sur les autres mains bicolores ♠-♥ :
+Conséquences du Bessis, et Roudi avec les mains bicolores ♠-♥ :
 
 - 1m - 1♠ - 1SA - 2♥ : 9+/10H, légèrement plus beau que Bessis
 - 1m - 1♠ - 1SA - 2♣ - 2♦ - 2♥ : 5 piques 4 cœurs limite (11–12H non FM)
@@ -663,12 +664,11 @@ Le même principe s'applique si l'adversaire relance au lieu de passer, par exem
 
 <a id="developpements-apres-intervention-par-1SA"></a>
 
-"Minou/matou"
+### "Minou/matou"
 
-- Détails
+Après **1m 1SA** : réponses comme si l'ouverture n'existe pas (texas, stayman...).
 
-1m 1SA : réponses comme si l'ouverture n'existe pas (texas, stayman...)
-1M 1SA : réponses tout texas, texas impossible = stayman
+Après **1M 1SA** : réponses tout texas, texas impossible = stayman.
 
 <a id="defense-1SA-X"></a>
 
