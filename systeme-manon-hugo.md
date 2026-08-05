@@ -45,7 +45,7 @@ Meilleure mineure — Majeure 5e
    - [Intervention sur 1SA d'ouverture](#intervention-1SA)
    - [Defense sur les barrages adverses](#defense-barrages)
    - [Défense sur 2K Multi](#defense-2k-multi)
-   - [Développements après notre intervention par 1SA](#developpements-apres-intervention-par-1SA)
+   - [Développements après notre intervention par 1SA](#developpements-apres-notre-intervention-par-1SA)
    - [Défense après X punitif de notre 1SA d'intervention](#defense-1SA-X)
    - [Développements après intervention adverse d'1SA](#developpements-intervention-1SA)
 8. [Principes Généraux](#principes-generaux)
@@ -662,9 +662,11 @@ Le même principe s'applique si l'adversaire relance au lieu de passer, par exem
 - (1♥) - 1♠ - (2♥) - 4♣
 - (1♥) - 1♠ - (2♣) - 3♦
 
-<a id="developpements-apres-intervention-par-1SA"></a>
+<a id="developpements-apres-notre-intervention-par-1SA"></a>
 
-### "Minou/matou"
+### Développements après notre intervention par 1SA
+
+"Minou/matou"
 
 Après **1m 1SA** : réponses comme si l'ouverture n'existe pas (texas, stayman...).
 
